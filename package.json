@@ -1,0 +1,22 @@
+{
+  "name": "sana",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "author": "Fred",
+  "license": "ISC",
+  "dependencies": {
+    "core-js": "^3.31.1",
+    "leaflet": "^1.9.4",
+    "live-server": "^1.2.2",
+    "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "parcel": "^2.9.3"
+  }
+}
